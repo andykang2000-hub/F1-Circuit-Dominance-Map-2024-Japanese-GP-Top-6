@@ -103,19 +103,6 @@ f1-dominance-map/
     └── japan_gp_dominance_map.png
 ```
 
----
-
-## Part of a Larger Portfolio
-
-This is **Project 2** of a 5-project F1 data science portfolio targeting roles in motorsport analytics:
-
-| # | Project | Skills |
-|---|---------|--------|
-| ✅ 1 | [Telemetry Analysis](https://github.com/YOUR_USERNAME/f1-telemetry-analysis) | FastF1, matplotlib, time-series visualisation |
-| ✅ 2 | Circuit Dominance Map (this project) | Geospatial plotting, multi-driver comparison |
-| 3 | Tire Compound Classifier | scikit-learn, classification |
-| 4 | Pit Stop Strategy Optimizer | Optimisation, simulation |
-| 5 | Qualifying Lap Predictor | Regression, feature engineering |
 
 ---
 
