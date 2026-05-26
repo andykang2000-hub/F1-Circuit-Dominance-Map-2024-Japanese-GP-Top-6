@@ -73,6 +73,13 @@ NOR dominated Dunlop and Degner 1 — the mid-speed technical section — which 
 
 ---
 
+## Future Improvments
+I measured dominance by peak speed at each point — but peak speed at a point is largely determined by the corner before it, not the driver's skill at that exact location. A driver who brakes later into a corner will have lower speed mid-corner but higher speed exiting — the metric would show them as "slower" at the corner and "faster" on the straight, which is actually the same action.
+The problem of this corner dominance table is that it's measuring speed at a single point per corner, not through the whole corner. A more meaningful metric would be minimum speed through the corner (which measures how well the driver carries speed) combined with exit speed (which measures how early they can apply throttle). 
+So, in the future I will replace point-speed with minimum corner speed + exit acceleration per corner. This separates "fast through corner" from "fast after corner" which I believe would provide a more analytically meaningful distinction.
+
+---
+
 ## How to Run
 
 ```bash
